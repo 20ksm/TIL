@@ -98,5 +98,3 @@ ___굵게 및 기울임___
 
 # 참고
 [공식문서](https://www.markdownguide.org/basic-syntax/)
-
-추가추가
